@@ -9,13 +9,13 @@
   body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f4f4f4;
-    color: #333;
+    background-image: linear-gradient(to bottom, #253743, #b0b0b0);
+    color: #161515;
   }
   
   /* Header */
   #header {
-    background: #333;
+    background: linear-gradient(to right, #25373f, rgb(101, 120, 129));
     color: #fff;
     padding: 20px 0;
   }
@@ -83,7 +83,7 @@
   
   /* Proyek */
   .project {
-    background: #fff;
+    background: #9c9d9d;
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 5px;
